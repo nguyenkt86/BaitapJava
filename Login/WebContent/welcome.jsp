@@ -7,6 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<h1>Welcome ${sessionScope.Loginsucces } </h1>
+	<h1>Welcome ${sessionScope.Loginsucces }</h1>
+	<a href="Logout">logout</a>
 </body>
 </html>
